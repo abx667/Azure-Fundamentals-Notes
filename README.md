@@ -5,12 +5,13 @@ This repository contains my structured notes while preparing for Microsoft Azure
 ---
  
 ## 📚 Topics Covered
+ ## ☁️ Cloud Concepts
  
-### ☁️ Cloud Concepts
-- What is Cloud Computing
-- Shared Responsibility Model
-- Cloud Deployment Models
-- Benefits of Cloud Computing
+- [What is Cloud Computing](01-Cloud-Concepts/what-is-cloud.md)
+- [Shared Responsibility Model](01-Cloud-Concepts/shared-responsibility.md)
+- [Cloud Deployment Models](01-Cloud-Concepts/cloud-models.md)
+- [Benefits of Cloud Computing](01-Cloud-Concepts/benefits-of-cloud.md)
+
  
 ---
  
