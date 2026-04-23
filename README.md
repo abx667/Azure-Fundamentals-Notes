@@ -18,6 +18,15 @@ This repository contains my structured notes while preparing for Microsoft Azure
    - [Platform as a Service (PaaS)](02-Cloud-Service-Types/paas.md)
    - [Software as a Service (SaaS)](02-Cloud-Service-Types/saas.md)
    - [Serverless Computing](02-Cloud-Service-Types/serverless.md)
+
+  🏗️ Core Azure Architecture
+ 
+   - [Regions](03-Core-Azure-Architecture/regions.md)
+   - [Availability Zones](03-Core-Azure-Architecture/availability-zones.md)
+   - [Resource Groups](03-Core-Azure-Architecture/resource-groups.md)
+   - [Subscriptions](03-Core-Azure-Architecture/subscriptions.md)
+   - [Management Groups](03-Core-Azure-Architecture/management-groups.md)
+ 
  
  
 ---
